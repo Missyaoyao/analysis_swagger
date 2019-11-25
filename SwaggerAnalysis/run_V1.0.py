@@ -153,4 +153,4 @@ class AnalysisJson(object):
 
 
 if __name__ == '__main__':
-    AnalysisJson("http://api.shoppingyizhan.com/fcb").retrieve_data()
+    AnalysisJson("http://api.XXXXXXXXX").retrieve_data()
